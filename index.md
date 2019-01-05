@@ -3,7 +3,7 @@ Adam Gross
 
 ----
 
->  Specialties: Java, Python, Linux, Cloud-based Software Engineering at Scale
+>  Specialties: Java, Python, Linux, Cloud-based Software Engineering at Scale \
 >  B.S. in Computer Science, Mathematics and History
 
 ----
@@ -57,5 +57,5 @@ I am a passionate photographer, jazz-funk musician (piano, guitar, and bass), an
 
 ----
 
-> <amgross4@gmail.com> • +1 (818) 983-6258 • 24 years old
+> <amgross4@gmail.com> • +1 (818) 983-6258 • 24 years old \
 >  16155 High Valley Place, Encino CA 91436
